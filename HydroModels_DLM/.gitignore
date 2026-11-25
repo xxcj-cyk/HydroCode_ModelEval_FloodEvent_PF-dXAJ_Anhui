@@ -1,0 +1,14 @@
+.env
+.vscode/
+
+**/__pycache__/
+
+
+*.ipynb
+*.png
+
+testing/
+results/
+*docs
+
+
